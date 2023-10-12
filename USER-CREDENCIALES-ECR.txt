@@ -1,0 +1,21 @@
+REPOSITORIOS-VISAS-MJ-PROD
+
+   NOMBRE                                           URI                                                         TAG
+sv-visas-backend                   859134114419.dkr.ecr.us-east-1.amazonaws.com/sv-visas-backend                 prd
+sv-visas-frontend                  859134114419.dkr.ecr.us-east-1.amazonaws.com/sv-visas-frontend                prd
+
+
+
+
+CREDENCIALES USER-ECR-GITLAB
+
+ACCESS_KEY:  AKIA4QCDCHJZ4DGV4L74
+ACCESS_SECRET_KEY:  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
+
+
+CREDENCIALES DATABASAE MYSQL-VISAS-PRD
+
+USER: admin
+PASS: v!sas2023$migracion2023!
+HOST: bd-visas-prod.cluster-cxp1i8mzodcv.us-east-1.rds.amazonaws.com
+PORT: 3306
